@@ -9,6 +9,28 @@ A passionate frontend web developer and mobile app developer
 
 Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) ➡️.
 
+## 📌 Pinned Repositories
+
+<div>
+  <a href="https://github.com/chandana105/rhythm-store" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=rhythm-store&theme=dracula" alt="rhythm-store" />
+   </a>  
+   <a href="https://github.com/chandana105/foodit-mobile-app" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=foodit-mobile-app&theme=dracula" alt="foodit-mobile-app" />
+   </a>  
+  <a href="https://github.com/chandana105/netflix-GPT" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=netflix-GPT&theme=dracula" alt="netflix-GPT" />
+</a>
+     <a href="https://github.com/chandana105/foodit-foodOrderingWebApp" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=foodit-foodOrderingWebApp&theme=dracula" alt="foodit-foodOrderingWebApp" />
+   </a>  
+  <a href="https://github.com/chandana105/vidInteract" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=vidInteract&theme=dracula" alt="vidInteract" />
+</a>
+
+</div>
+
+
 ## 🧰 Technologies
 
 <!-- Programming Languages -->
@@ -130,7 +152,7 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 
 ![Chandana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandana105&layout=compact&theme=dracula)
 
-> **NOTE:** Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.
+> **NOTE:** Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub. CHANGE
 
 
 
