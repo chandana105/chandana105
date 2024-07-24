@@ -146,4 +146,3 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 
 ![Chandana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandana105&layout=compact&theme=dracula)
 
-> **NOTE:** Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub. CHANGE
