@@ -11,11 +11,11 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 ## 📌 Pinned Repositories
 
 <div>
-  <a href="https://github.com/chandana105/rhythm-store" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=rhythm-store&theme=dracula" alt="rhythm-store" />
-   </a>  
-   <a href="https://github.com/chandana105/foodit-mobile-app" target="_blank">
+  <a href="https://github.com/chandana105/foodit-mobile-app" target="_blank">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=foodit-mobile-app&theme=dracula" alt="foodit-mobile-app" />
+   </a>  
+   <a href="https://github.com/chandana105/foodit-foodOrderingWebApp" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=foodit-foodOrderingWebApp&theme=dracula" alt="foodit-foodOrderingWebApp" />
    </a>  
   <a href="https://github.com/chandana105/netflix-GPT" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=netflix-GPT&theme=dracula" alt="netflix-GPT" />
