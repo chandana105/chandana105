@@ -1,11 +1,10 @@
-
 # Hi 👋, I'm Chandana Mahajan.
+
 A passionate frontend web developer and mobile app developer
 
-- 👩‍💻 Pronouns: She/Her 
 - 💻 I am a frontend developer, expanding my expertise into mobile app development through personal projects.
 - ⚡ Fun fact: I enjoy listening to music, playing badminton, and diving into DIY crafts like colorful artwork and mirror art.
-- 📫 How to reach me: [Linkedin](linkedin.com/in/chandana-mahajan-509b25186) 
+- 📫 How to reach me: [Linkedin](linkedin.com/in/chandana-mahajan-509b25186)
 
 Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) ➡️.
 
@@ -30,11 +29,12 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 
 </div>
 
-
 ## 🧰 Technologies
 
 <!-- Programming Languages -->
+
 ### Programming Languages
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <span style="display: flex; align-items: center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > 
@@ -59,7 +59,9 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 </div>
 
 <!-- Languages and Frameworks -->
+
 ### Libraries and Frameworks
+
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
   <span style="display: flex; align-items: center;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -101,15 +103,13 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
     </a> 
   </span>
-  <span style="display: flex; align-items: center;">
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-    </a> 
-  </span>
+  
 </div>
 
 <!-- Tools and Platforms -->
+
 ### Tools and Platforms
+
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
   <span style="display: flex; align-items: center;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -143,9 +143,6 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
   </span>
 </div>
 
-
-
-
 ## 📈 GitHub Stats
 
 ![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandana105&show_icons=true&theme=dracula)
@@ -153,7 +150,3 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
 ![Chandana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandana105&layout=compact&theme=dracula)
 
 > **NOTE:** Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub. CHANGE
-
-
-
-
