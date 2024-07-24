@@ -20,9 +20,6 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
   <a href="https://github.com/chandana105/netflix-GPT" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=netflix-GPT&theme=dracula" alt="netflix-GPT" />
 </a>
-     <a href="https://github.com/chandana105/foodit-foodOrderingWebApp" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=foodit-foodOrderingWebApp&theme=dracula" alt="foodit-foodOrderingWebApp" />
-   </a>  
   <a href="https://github.com/chandana105/vidInteract" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=vidInteract&theme=dracula" alt="vidInteract" />
 </a>
