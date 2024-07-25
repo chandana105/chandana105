@@ -23,6 +23,12 @@ Want to know more? Check out my [website](https://chandanamahajan.netlify.app/) 
   <a href="https://github.com/chandana105/vidInteract" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=vidInteract&theme=dracula" alt="vidInteract" />
 </a>
+ <a href="https://github.com/chandana105/rhythm-store" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=rhythm-store&theme=dracula" alt="rhythm-store" />
+</a>
+ <a href="https://github.com/chandana105/rhythm-notes" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana105&repo=rhythm-notes&theme=dracula" alt="rhythm-notes" />
+</a>
 
 </div>
 
